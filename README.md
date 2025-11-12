@@ -1,2 +1,2 @@
 # tokiTech
-blah blah blah
+it's a offical repo of toki tech plaftforms
