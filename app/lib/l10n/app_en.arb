@@ -1,0 +1,19 @@
+{
+"appTitle": "School Management",
+"schoolName": "Delhi Public School",
+"schoolTagline": "School Management System",
+"trustedTitle": "Trusted by educators",
+"trustedSubtitle": "Streamlined school operations",
+"welcome": "Welcome",
+"phoneNumber": "Phone Number",
+"phonePlaceholder": "+91 XXXXXX XXXXX",
+"enterOtp": "Enter OTP",
+"otpPlaceholder": "000000",
+"sendOtp": "Send OTP",
+"cancel": "Cancel",
+"verifyLogin": "Verify & Login",
+"changeSchool": "Change School",
+"poweredBy": "Powered by",
+"langEnglish": "English",
+"langTelugu": "తెలుగు"
+}

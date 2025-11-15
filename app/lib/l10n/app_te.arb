@@ -1,0 +1,19 @@
+{
+  "appTitle": "School Management",
+  "schoolName": "ఢిల్లీ పబ్లిక్ స్కూల్",
+  "schoolTagline": "స్కూల్ మేనేజ్‌మెంట్ సిస్టమ్",
+  "trustedTitle": "అధ్యాపకుల విశ్వాసం",
+  "trustedSubtitle": "క్రమబద్ధీకరించబడిన పాఠశాల కార్యకలాపాలు",
+  "welcome": "స్వాగతం",
+  "phoneNumber": "ఫోన్ నంబర్",
+  "phonePlaceholder": "+91 XXXXXX XXXXX",
+  "enterOtp": "OTPని నమోదు చేయండి",
+  "otpPlaceholder": "000000",
+  "sendOtp": "OTPని పంపండి",
+  "cancel": "రద్దు చేయి",
+  "verifyLogin": "ధృవీకరించండి & లాగిన్ చేయండి",
+  "changeSchool": "పాఠశాల మార్చండి",
+  "poweredBy": "ద్వారా ఆధారితం",
+  "langEnglish": "ఇంగ్లీష్",
+  "langTelugu": "తెలుగు"
+}
